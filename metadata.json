@@ -1,0 +1,7 @@
+{
+  "name": "VisionGuide AI",
+  "description": "A real-time navigation assistant for the visually impaired using Gemini 3 Flash to detect hazards and provide actionable mobility guidance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
